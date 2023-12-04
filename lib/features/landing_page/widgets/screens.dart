@@ -7,6 +7,5 @@ import '../../hourly_forecast/screens/hourly_forecast_screen.dart';
 
 const List<Widget> screens = <Widget>[
   HomeScreen(),
- // HourlyForecastScreen(),
- // Forecast5DaysScreen(),
+
 ];
