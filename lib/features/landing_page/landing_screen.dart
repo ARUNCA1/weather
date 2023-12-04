@@ -98,14 +98,7 @@ class LandingScreen extends StatelessWidget {
                     ),
                   ),
 
-                  // bottomNavigationBar: BottomNavigationBar(
-                  //   onTap: (index) {
-                  //     BlocProvider.of<NavBarBloc>(context)
-                  //         .add(TabChange(tabIndex: index));
-                  //   },
-                  //   currentIndex: state.tabIndex,
-                  //   items: bottomNavItems,
-                  // ),
+
                 );
               },
             );
