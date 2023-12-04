@@ -60,7 +60,7 @@ class HomeWidget extends StatelessWidget {
             ),
             Padding(
               padding: const EdgeInsets.only(left: 20,right: 20,),
-              child: Text("Improve him believe opinion offered met and"+"\nend cheered forbade. Friendly as stronger\nspeedily by recurred. Son interest wandered \nsir addition end say. Manners beloved affixed\npicture men ask"
+              child: Text("Experience weather like never before with our innovative Android application! Seamlessly blending precision data with an intuitive interface, our app delivers real-time weather updates, detailed forecasts, and immersive visuals, ensuring you stay one step ahead of Mother Nature. Embrace a new level of weather insight – where accuracy meets elegance."
 
 
 
