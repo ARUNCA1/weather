@@ -6,7 +6,7 @@ class AppColors {
   static const Color dayPrimary = Colors.white;
   static const Color dayBorderPrimary = Colors.white;
   static  Color secondary = HexColor("#F6C8A4");
-  static const Color basic = Colors.white;
+  static const Color basic = Colors.brown;
   static const Color dark = Colors.white;
   static const Color black = Colors.white;
   //
